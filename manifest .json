@@ -1,0 +1,12 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Gangster: O Jogo do Poder",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Gangster",
+  "start_url": "/https://pedrin277.github.io/GANGSTER-.-o-jogo-do-poder/",
+  "theme_color": "#000000",
+  "description": "Jogo de tabuleiro de crime e poder para 2 a 4 jogadores"
+}
